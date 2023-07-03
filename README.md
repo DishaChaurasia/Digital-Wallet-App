@@ -1,2 +1,2 @@
 # Digital-Wallet-App
-# React-Project
+# React-Native Project
